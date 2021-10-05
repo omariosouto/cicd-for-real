@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Text /> displays the component 1`] = `
+.c0 {
+  color: orange;
+}
+
+<div>
+  <h1
+    class="c0"
+  >
+    Text
+  </h1>
+</div>
+`;
