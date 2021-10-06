@@ -3,7 +3,7 @@ import { render } from '../../infra/test/testUtils';
 
 describe('<Text />', () => {
     it('displays the component', () => {
-        const { container } = render(<Text>Texta</Text>);
+        const { container } = render(<Text>Text</Text>);
         expect(container).toMatchSnapshot();
     });
 });
