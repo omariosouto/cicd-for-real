@@ -4,8 +4,7 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "test": "jest --env=jsdom",
-    "test:watch": "yarn test --watch"
+    "test": "jest --env=jsdom"
   },
   "dependencies": {
     "next": "latest",
